@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MovieHub</string>
+    <string name="app_info">Hi Welcome..! \n
+        MovieHub will help you to search the List of movies from OMDB Api</string>
+
+    <string name="loading">Loading...</string>
+    <string name="exemple_title">Movie Name</string>
+    <string name="exemple_plot">Sample.</string>
+</resources>
